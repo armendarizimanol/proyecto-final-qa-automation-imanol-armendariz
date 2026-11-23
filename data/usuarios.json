@@ -1,0 +1,18 @@
+
+[
+    {
+        "usuario": "standard_user",
+        "password": "secret_sauce",
+        "resultado_esperado": "exito"
+    },
+    {
+        "usuario": "usuario_incorrecto",
+        "password": "password_incorrecta",
+        "resultado_esperado": "error"
+    },
+    {
+        "usuario": "",
+        "password": "",
+        "resultado_esperado": "error"
+    }
+]

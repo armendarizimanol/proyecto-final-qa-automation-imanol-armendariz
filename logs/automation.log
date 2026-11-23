@@ -1,0 +1,146 @@
+2026-11-23 20:12:05,711 - INFO - Ingresando a SauceDemo
+2026-11-23 20:12:06,135 - INFO - Completando credenciales de usuario
+2026-11-23 20:12:06,282 - INFO - Proceso de login ejecutado
+2026-11-23 20:12:09,235 - INFO - Ingresando a SauceDemo
+2026-11-23 20:12:09,582 - INFO - Completando credenciales de usuario
+2026-11-23 20:12:09,712 - INFO - Proceso de login ejecutado
+2026-11-23 20:12:12,827 - INFO - Ingresando a SauceDemo
+2026-11-23 20:12:13,426 - INFO - Completando credenciales de usuario
+2026-11-23 20:12:13,552 - INFO - Proceso de login ejecutado
+2026-11-23 20:12:16,663 - INFO - Ingresando a SauceDemo
+2026-11-23 20:12:17,006 - INFO - Completando credenciales de usuario
+2026-11-23 20:12:17,133 - INFO - Proceso de login ejecutado
+2026-11-23 20:12:20,103 - INFO - Ingresando a SauceDemo
+2026-11-23 20:12:20,399 - INFO - Completando credenciales de usuario
+2026-11-23 20:12:20,513 - INFO - Proceso de login ejecutado
+2026-11-23 20:15:17,822 - INFO - Ingresando a SauceDemo
+2026-11-23 20:15:18,302 - INFO - Completando credenciales de usuario
+2026-11-23 20:15:18,433 - INFO - Proceso de login ejecutado
+2026-11-23 20:15:18,515 - INFO - PRUEBA APROBADA: test_agregar_producto
+2026-11-23 20:15:21,306 - INFO - Ingresando a SauceDemo
+2026-11-23 20:15:21,593 - INFO - Completando credenciales de usuario
+2026-11-23 20:15:21,713 - INFO - Proceso de login ejecutado
+2026-11-23 20:15:21,791 - INFO - PRUEBA APROBADA: test_contador_carrito
+2026-11-23 20:15:24,597 - INFO - Ingresando a SauceDemo
+2026-11-23 20:15:24,915 - INFO - Completando credenciales de usuario
+2026-11-23 20:15:25,035 - INFO - Proceso de login ejecutado
+2026-11-23 20:15:25,164 - INFO - PRUEBA APROBADA: test_navegar_carrito_y_verificar_producto
+2026-11-23 20:15:27,965 - INFO - Ingresando a SauceDemo
+2026-11-23 20:15:28,278 - INFO - Completando credenciales de usuario
+2026-11-23 20:15:28,396 - INFO - Proceso de login ejecutado
+2026-11-23 20:15:28,457 - INFO - PRUEBA APROBADA: test_catalogo
+2026-11-23 20:15:31,327 - INFO - Ingresando a SauceDemo
+2026-11-23 20:15:31,615 - INFO - Completando credenciales de usuario
+2026-11-23 20:15:31,733 - INFO - Proceso de login ejecutado
+2026-11-23 20:15:31,736 - INFO - PRUEBA APROBADA: test_login
+2026-11-23 20:18:57,805 - INFO - PRUEBA APROBADA: test_obtener_publicacion
+2026-11-23 20:18:58,183 - INFO - PRUEBA APROBADA: test_crear_publicacion
+2026-11-23 20:18:58,545 - INFO - PRUEBA APROBADA: test_eliminar_publicacion
+2026-11-23 20:18:59,289 - INFO - Ingresando a SauceDemo
+2026-11-23 20:18:59,594 - INFO - Completando credenciales de usuario
+2026-11-23 20:18:59,727 - INFO - Proceso de login ejecutado
+2026-11-23 20:18:59,820 - INFO - PRUEBA APROBADA: test_agregar_producto
+2026-11-23 20:19:02,801 - INFO - Ingresando a SauceDemo
+2026-11-23 20:19:03,078 - INFO - Completando credenciales de usuario
+2026-11-23 20:19:03,210 - INFO - Proceso de login ejecutado
+2026-11-23 20:19:03,294 - INFO - PRUEBA APROBADA: test_contador_carrito
+2026-11-23 20:19:06,279 - INFO - Ingresando a SauceDemo
+2026-11-23 20:19:06,585 - INFO - Completando credenciales de usuario
+2026-11-23 20:19:06,734 - INFO - Proceso de login ejecutado
+2026-11-23 20:19:06,880 - INFO - PRUEBA APROBADA: test_navegar_carrito_y_verificar_producto
+2026-11-23 20:19:09,810 - INFO - Ingresando a SauceDemo
+2026-11-23 20:19:10,101 - INFO - Completando credenciales de usuario
+2026-11-23 20:19:10,228 - INFO - Proceso de login ejecutado
+2026-11-23 20:19:10,294 - INFO - PRUEBA APROBADA: test_catalogo
+2026-11-23 20:19:13,175 - INFO - Ingresando a SauceDemo
+2026-11-23 20:19:13,515 - INFO - Completando credenciales de usuario
+2026-11-23 20:19:13,646 - INFO - Proceso de login ejecutado
+2026-11-23 20:19:13,680 - INFO - PRUEBA APROBADA: test_login
+2026-11-23 20:29:50,410 - INFO - PRUEBA APROBADA: test_obtener_publicacion
+2026-11-23 20:29:50,805 - INFO - PRUEBA APROBADA: test_crear_publicacion
+2026-11-23 20:29:51,174 - INFO - PRUEBA APROBADA: test_eliminar_publicacion
+2026-11-23 20:29:51,917 - INFO - Ingresando a SauceDemo
+2026-11-23 20:29:52,259 - INFO - Completando credenciales de usuario
+2026-11-23 20:29:52,382 - INFO - Proceso de login ejecutado
+2026-11-23 20:29:52,493 - INFO - PRUEBA APROBADA: test_agregar_producto
+2026-11-23 20:29:55,462 - INFO - Ingresando a SauceDemo
+2026-11-23 20:29:55,760 - INFO - Completando credenciales de usuario
+2026-11-23 20:29:55,898 - INFO - Proceso de login ejecutado
+2026-11-23 20:29:55,986 - INFO - PRUEBA APROBADA: test_contador_carrito
+2026-11-23 20:29:58,931 - INFO - Ingresando a SauceDemo
+2026-11-23 20:29:59,312 - INFO - Completando credenciales de usuario
+2026-11-23 20:29:59,449 - INFO - Proceso de login ejecutado
+2026-11-23 20:29:59,597 - INFO - PRUEBA APROBADA: test_navegar_carrito_y_verificar_producto
+2026-11-23 20:30:02,483 - INFO - Ingresando a SauceDemo
+2026-11-23 20:30:02,777 - INFO - Completando credenciales de usuario
+2026-11-23 20:30:02,897 - INFO - Proceso de login ejecutado
+2026-11-23 20:30:02,968 - INFO - PRUEBA APROBADA: test_catalogo
+2026-11-23 20:30:06,278 - INFO - PRUEBA APROBADA: test_login[datos_usuario0]
+2026-11-23 20:30:09,617 - INFO - PRUEBA APROBADA: test_login[datos_usuario1]
+2026-11-23 20:30:12,925 - INFO - PRUEBA APROBADA: test_login[datos_usuario2]
+2026-11-23 20:37:55,947 - INFO - PRUEBA APROBADA: test_obtener_publicacion
+2026-11-23 20:37:56,319 - INFO - PRUEBA APROBADA: test_crear_publicacion
+2026-11-23 20:37:56,685 - INFO - PRUEBA APROBADA: test_eliminar_publicacion
+2026-11-23 20:37:57,563 - INFO - Ingresando a SauceDemo
+2026-11-23 20:37:57,849 - INFO - Completando credenciales de usuario
+2026-11-23 20:37:57,997 - INFO - Proceso de login ejecutado
+2026-11-23 20:37:58,079 - INFO - PRUEBA APROBADA: test_agregar_producto
+2026-11-23 20:38:00,893 - INFO - Ingresando a SauceDemo
+2026-11-23 20:38:01,194 - INFO - Completando credenciales de usuario
+2026-11-23 20:38:01,307 - INFO - Proceso de login ejecutado
+2026-11-23 20:38:01,417 - INFO - PRUEBA APROBADA: test_contador_carrito
+2026-11-23 20:38:04,519 - INFO - Ingresando a SauceDemo
+2026-11-23 20:38:04,857 - INFO - Completando credenciales de usuario
+2026-11-23 20:38:04,977 - INFO - Proceso de login ejecutado
+2026-11-23 20:38:05,108 - INFO - PRUEBA APROBADA: test_navegar_carrito_y_verificar_producto
+2026-11-23 20:38:07,911 - INFO - Ingresando a SauceDemo
+2026-11-23 20:38:08,597 - INFO - Completando credenciales de usuario
+2026-11-23 20:38:08,711 - INFO - Proceso de login ejecutado
+2026-11-23 20:38:08,774 - INFO - PRUEBA APROBADA: test_catalogo
+2026-11-23 20:38:12,148 - INFO - PRUEBA APROBADA: test_login[datos_usuario0]
+2026-11-23 20:38:15,440 - INFO - PRUEBA APROBADA: test_login[datos_usuario1]
+2026-11-23 20:38:18,651 - INFO - PRUEBA APROBADA: test_login[datos_usuario2]
+2026-11-23 20:38:27,899 - INFO - PRUEBA APROBADA: test_obtener_publicacion
+2026-11-23 20:38:28,268 - INFO - PRUEBA APROBADA: test_crear_publicacion
+2026-11-23 20:38:28,635 - INFO - PRUEBA APROBADA: test_eliminar_publicacion
+2026-11-23 20:38:29,400 - INFO - Ingresando a SauceDemo
+2026-11-23 20:38:29,700 - INFO - Completando credenciales de usuario
+2026-11-23 20:38:29,825 - INFO - Proceso de login ejecutado
+2026-11-23 20:38:29,950 - INFO - PRUEBA APROBADA: test_agregar_producto
+2026-11-23 20:38:32,857 - INFO - Ingresando a SauceDemo
+2026-11-23 20:38:33,191 - INFO - Completando credenciales de usuario
+2026-11-23 20:38:33,330 - INFO - Proceso de login ejecutado
+2026-11-23 20:38:33,420 - INFO - PRUEBA APROBADA: test_contador_carrito
+2026-11-23 20:38:36,364 - INFO - Ingresando a SauceDemo
+2026-11-23 20:38:36,705 - INFO - Completando credenciales de usuario
+2026-11-23 20:38:36,817 - INFO - Proceso de login ejecutado
+2026-11-23 20:38:36,987 - INFO - PRUEBA APROBADA: test_navegar_carrito_y_verificar_producto
+2026-11-23 20:38:39,920 - INFO - Ingresando a SauceDemo
+2026-11-23 20:38:40,568 - INFO - Completando credenciales de usuario
+2026-11-23 20:38:40,697 - INFO - Proceso de login ejecutado
+2026-11-23 20:38:40,764 - INFO - PRUEBA APROBADA: test_catalogo
+2026-11-23 20:38:44,121 - INFO - PRUEBA APROBADA: test_login[datos_usuario0]
+2026-11-23 20:38:47,493 - INFO - PRUEBA APROBADA: test_login[datos_usuario1]
+2026-11-23 20:38:50,841 - INFO - PRUEBA APROBADA: test_login[datos_usuario2]
+2026-11-23 20:41:10,462 - INFO - PRUEBA APROBADA: test_obtener_publicacion
+2026-11-23 20:41:10,845 - INFO - PRUEBA APROBADA: test_crear_publicacion
+2026-11-23 20:41:11,217 - INFO - PRUEBA APROBADA: test_eliminar_publicacion
+2026-11-23 20:41:11,966 - INFO - Ingresando a SauceDemo
+2026-11-23 20:41:12,270 - INFO - Completando credenciales de usuario
+2026-11-23 20:41:12,391 - INFO - Proceso de login ejecutado
+2026-11-23 20:41:12,463 - INFO - PRUEBA APROBADA: test_agregar_producto
+2026-11-23 20:41:15,314 - INFO - Ingresando a SauceDemo
+2026-11-23 20:41:15,610 - INFO - Completando credenciales de usuario
+2026-11-23 20:41:15,728 - INFO - Proceso de login ejecutado
+2026-11-23 20:41:15,806 - INFO - PRUEBA APROBADA: test_contador_carrito
+2026-11-23 20:41:18,576 - INFO - Ingresando a SauceDemo
+2026-11-23 20:41:18,893 - INFO - Completando credenciales de usuario
+2026-11-23 20:41:19,005 - INFO - Proceso de login ejecutado
+2026-11-23 20:41:19,139 - INFO - PRUEBA APROBADA: test_navegar_carrito_y_verificar_producto
+2026-11-23 20:41:21,961 - INFO - Ingresando a SauceDemo
+2026-11-23 20:41:22,235 - INFO - Completando credenciales de usuario
+2026-11-23 20:41:22,350 - INFO - Proceso de login ejecutado
+2026-11-23 20:41:22,408 - INFO - PRUEBA APROBADA: test_catalogo
+2026-11-23 20:41:25,728 - INFO - PRUEBA APROBADA: test_login[datos_usuario0]
+2026-11-23 20:41:28,959 - INFO - PRUEBA APROBADA: test_login[datos_usuario1]
+2026-11-23 20:41:32,191 - INFO - PRUEBA APROBADA: test_login[datos_usuario2]

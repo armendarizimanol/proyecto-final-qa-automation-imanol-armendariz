@@ -1,35 +1,27 @@
 
-from selenium.webdriver.common.by import By
-
 from utils.helpers import iniciar_sesion
+from pages.CatalogPage import CatalogPage
 
 
 def test_catalogo(driver):
 
     iniciar_sesion(driver)
 
+    catalogo = CatalogPage(driver)
+
+    # Verificamos el titulo de la pagina
     assert driver.title == "Swag Labs"
 
-    section_title = driver.find_element(
-        By.CLASS_NAME, "title"
-    ).text
+    # Verificamos el encabezado del catalogo
+    assert catalogo.obtener_titulo() == "Products"
 
-    assert section_title == "Products"
+    # Verificamos que existan productos
+    cantidad_productos = catalogo.obtener_cantidad_productos()
 
-    inventory_items = driver.find_elements(
-        By.CLASS_NAME, "inventory_item"
-    )
+    assert cantidad_productos > 0
 
-    assert len(inventory_items) > 0
+    # Verificamos que el menu este visible
+    assert catalogo.menu_visible()
 
-    menu_button = driver.find_element(
-        By.ID, "react-burger-menu-btn"
-    )
-
-    assert menu_button.is_displayed()
-
-    product_sort = driver.find_element(
-        By.CLASS_NAME, "product_sort_container"
-    )
-
-    assert product_sort.is_displayed()
+    # Verificamos que el selector de ordenamiento este visible
+    assert catalogo.ordenamiento_visible()
