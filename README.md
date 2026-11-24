@@ -156,7 +156,7 @@ git clone https://github.com/armendarizimanol/pre-entrega-automation-testing-ima
 Ingresar a la carpeta del proyecto:
 
 ```bash
-cd pre_entrega_QA_automation
+cd pre-entrega-automation-testing-imanol-armendariz
 ```
 
 Crear un entorno virtual:
