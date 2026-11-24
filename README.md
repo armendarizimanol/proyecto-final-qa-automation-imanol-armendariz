@@ -150,7 +150,7 @@ Se requiere tener Python instalado.
 Clonar el repositorio:
 
 ```bash
-git clone https://github.com/armendarizimanol/pre-entrega-automation-testing-imanol-armendariz.git
+git clone https://github.com/armendarizimanol/proyecto-final-qa-automation-imanol-armendariz.git
 ```
 
 Ingresar a la carpeta del proyecto:
